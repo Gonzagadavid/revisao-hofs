@@ -1,0 +1,21 @@
+{
+  "name": "revisao-hofs",
+  "version": "1.0.0",
+  "description": "## Boolean - [boolean](./src/hofs/boolean)  - [desafio](./src/desafios/boolean)   ---",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
